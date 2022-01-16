@@ -1,0 +1,3 @@
+let key = 'Entry_1';
+localStorage.removeItem(key);
+localStorage.setItem(key, 'New Value');
